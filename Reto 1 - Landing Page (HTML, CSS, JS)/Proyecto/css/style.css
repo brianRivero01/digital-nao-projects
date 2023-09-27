@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Soleil",Helvetica,Arial,sans-serif;
+}
+
+/*HEADER CSS*/
+.nav-link:hover{
+    color: #f23a4d !important;
+} 
+
+/*INTRODUCCIÓN CSS*/ 
+
+.masthead{
+    padding-top: 300px;
+}
+
+.masthead h1{
+    font-size: 4.4rem
+}
+
+.masthead .button-subscribe{
+   padding: 1.2rem 1.8rem; 
+   background-color: #ed172cd4;
+   color: #fff;
+}
+
+/*ACERCA DE CSS*/ 
+
+#about{
+    margin-top: 15rem;
+    background-color: #f23a4d;
+}
+
+#about h2{
+    color: #f23a4d;
+}
+
+#about p{
+    font-family: "Pangram","-apple-system,BlinkMacSystemFont","Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
+/*APRENDISAJE CSS*/ 
+
+#skills{
+    margin-top: 5rem;
+}
+
+#skills h3{
+    color: #f23a4d;
+    font-weight: bold;
+}
+
+.img-svg{
+    width: 320px;
+}
+
+/*SUSCRIPCION CSS*/ 
+
+#subscribe{
+    height: 460px;
+    margin-top: 7rem;
+    background-image: url(../assets/images/Moon.svg);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#subscribe .btn-submit{
+    background-color: #f23a4d;
+    color: #fff;
+}
+
+.warnings{
+    font-size: 1.2rem;
+    color: #ff0000;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+/*RESPONSIVE*/ 
+@media screen and (max-width: 992px){
+    .img-svg{
+        width: 220px;
+    }
+}
+
+
+@media screen and (max-width: 484px) {
+    .masthead h1{
+        font-size: 3rem
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .masthead h1{
+        font-size: 2.7rem
+    }
+    p{
+        font-size: 14px
+    }
+}
+
+

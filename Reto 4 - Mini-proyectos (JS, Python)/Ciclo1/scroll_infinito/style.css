@@ -1,0 +1,30 @@
+body {
+    background: #3e4451;
+}
+
+#content {
+    margin-top: 10%;
+}
+
+#infinite-list {
+    background: white;
+    overflow: auto;
+    width: 200px;
+    height: 300px;
+
+    margin: 30px;
+    padding: 20px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 10px 40px 0 rgba(47, 47, 47.1)
+}
+
+li {
+    padding: 10px;
+    list-style-type: none;
+    border-bottom: 1px solid #eee;
+}
+
+li:hover {
+    background: #808897
+}

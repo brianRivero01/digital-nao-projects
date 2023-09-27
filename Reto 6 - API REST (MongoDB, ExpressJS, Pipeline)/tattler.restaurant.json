@@ -1,0 +1,364 @@
+[{
+  "_id": {
+    "$oid": "64adaaff742275793435cc4c"
+  },
+  "address": {
+    "building": "8825",
+    "coord": [
+      -73.8803827,
+      40.7643124
+    ],
+    "street": "Astoria Boulevard",
+    "zipcode": "11369"
+  },
+  "borough": "Queens",
+  "cuisine": "American",
+  "grades": [
+    {
+      "date": {
+        "$date": "2014-11-15T00:00:00.000Z"
+      },
+      "score": 4
+    },
+    {
+      "date": {
+        "$date": "2014-05-02T00:00:00.000Z"
+      },
+      "score": 2
+    },
+    {
+      "date": {
+        "$date": "2013-03-02T00:00:00.000Z"
+      },
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": "2012-02-10T00:00:00.000Z"
+      },
+      "score": 5
+    }
+  ],
+  "comments": [
+    {
+      "date": {
+        "$date": "2014-11-15T00:00:00.000Z"
+      },
+      "comment": "I will definitely be back!"
+    }
+  ],
+  "name": "Brunos On The Boulevard",
+  "restaurant_id": "40356151"
+},
+{
+  "_id": {
+    "$oid": "64adb013742275793435cc4e"
+  },
+  "address": {
+    "building": "870",
+    "coord": [
+      -73.8200827,
+      40.8003124
+    ],
+    "street": "Bulevar Benegas",
+    "zipcode": "940"
+  },
+  "borough": "Las carmelas",
+  "cuisine": "Argentine",
+  "grades": [
+    {
+      "date": {
+        "$date": "2011-12-15T00:00:00.000Z"
+      },
+      "score": 4
+    },
+    {
+      "date": {
+        "$date": "2014-01-02T00:00:00.000Z"
+      },
+      "score": 2
+    },
+    {
+      "date": {
+        "$date": "2014-02-02T00:00:00.000Z"
+      },
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": "2014-02-10T00:00:00.000Z"
+      },
+      "score": 1
+    }
+  ],
+  "comments": [
+    {
+      "date": {
+        "$date": "2014-11-15T00:00:00.000Z"
+      },
+      "comment": "No me ha gustado el servicio"
+    }
+  ],
+  "name": "La casa del asado",
+  "restaurant_id": "40356152"
+},
+{
+  "_id": {
+    "$oid": "64adb013742275793435cc4f"
+  },
+  "address": {
+    "building": "8826",
+    "coord": [
+      -73.8821827,
+      40.1143124
+    ],
+    "street": "Alsina",
+    "zipcode": "20369"
+  },
+  "borough": "Frankfurt",
+  "cuisine": "American",
+  "grades": [
+    {
+      "date": {
+        "$date": "2015-11-15T00:00:00.000Z"
+      },
+      "score": 1
+    },
+    {
+      "date": {
+        "$date": "2015-05-02T00:00:00.000Z"
+      },
+      "score": 1
+    },
+    {
+      "date": {
+        "$date": "2014-03-02T00:00:00.000Z"
+      },
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": "2013-02-10T00:00:00.000Z"
+      },
+      "score": 5
+    }
+  ],
+  "comments": [
+    {
+      "date": {
+        "$date": "2014-11-15T00:00:00.000Z"
+      },
+      "comment": "Me ha gustado la comida"
+    }
+  ],
+  "name": "Dinastia",
+  "restaurant_id": "40356153"
+},
+{
+  "_id": {
+    "$oid": "64adb279742275793435cc51"
+  },
+  "address": {
+    "building": "8270",
+    "coord": [
+      -73.8200827,
+      40.8003124
+    ],
+    "street": "Av. San Martin",
+    "zipcode": "6540"
+  },
+  "borough": "Yepes",
+  "cuisine": "Argentine",
+  "grades": [
+    {
+      "date": {
+        "$date": "2016-12-15T00:00:00.000Z"
+      },
+      "score": 4
+    },
+    {
+      "date": {
+        "$date": "2016-01-02T00:00:00.000Z"
+      },
+      "score": 4
+    },
+    {
+      "date": {
+        "$date": "2016-02-02T00:00:00.000Z"
+      },
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": "2017-02-10T00:00:00.000Z"
+      },
+      "score": 4
+    }
+  ],
+  "comments": [
+    {
+      "date": {
+        "$date": "2014-11-15T00:00:00.000Z"
+      },
+      "comment": "Me ha encantado el lugar y la comida!"
+    }
+  ],
+  "name": "El buen sabor",
+  "restaurant_id": "40356154"
+},
+{
+  "_id": {
+    "$oid": "64adb279742275793435cc52"
+  },
+  "address": {
+    "building": "1126",
+    "coord": [
+      -73.2221827,
+      40.4123124
+    ],
+    "street": "Av. Colon",
+    "zipcode": "20398"
+  },
+  "borough": "Formosa",
+  "cuisine": "Argentine",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-10-15T00:00:00.000Z"
+      },
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": "2021-09-02T00:00:00.000Z"
+      },
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": "2021-11-02T00:00:00.000Z"
+      },
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": "2021-12-10T00:00:00.000Z"
+      },
+      "score": 5
+    }
+  ],
+  "comments": [
+    {
+      "date": {
+        "$date": "2014-11-15T00:00:00.000Z"
+      },
+      "comment": "Excelente!"
+    }
+  ],
+  "name": "El parrillero",
+  "restaurant_id": "40356155"
+},
+{
+  "_id": {
+    "$oid": "64adb43c742275793435cc54"
+  },
+  "address": {
+    "building": "870",
+    "coord": [
+      -73.0044827,
+      40.8443124
+    ],
+    "street": "Calle Regueros",
+    "zipcode": "2540"
+  },
+  "borough": "Sarsd",
+  "cuisine": "Italian",
+  "grades": [
+    {
+      "date": {
+        "$date": "2011-12-15T00:00:00.000Z"
+      },
+      "score": 4
+    },
+    {
+      "date": {
+        "$date": "2014-01-02T00:00:00.000Z"
+      },
+      "score": 2
+    },
+    {
+      "date": {
+        "$date": "2014-02-02T00:00:00.000Z"
+      },
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": "2014-02-10T00:00:00.000Z"
+      },
+      "score": 1
+    }
+  ],
+  "comments": [
+    {
+      "date": {
+        "$date": "2014-11-15T00:00:00.000Z"
+      },
+      "comment": "Great!"
+    }
+  ],
+  "name": "Trattoria Pulcinella",
+  "restaurant_id": "40356154"
+},
+{
+  "_id": {
+    "$oid": "64adb43c742275793435cc55"
+  },
+  "address": {
+    "building": "9926",
+    "coord": [
+      -73.8221827,
+      40.1141124
+    ],
+    "street": "Manccini",
+    "zipcode": "22269"
+  },
+  "borough": "Roqeut",
+  "cuisine": "Italian",
+  "grades": [
+    {
+      "date": {
+        "$date": "2015-11-15T00:00:00.000Z"
+      },
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": "2015-05-02T00:00:00.000Z"
+      },
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": "2014-03-02T00:00:00.000Z"
+      },
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": "2013-02-10T00:00:00.000Z"
+      },
+      "score": 5
+    }
+  ],
+  "comments": [
+    {
+      "date": {
+        "$date": "2014-11-15T00:00:00.000Z"
+      },
+      "comment": "Me ha gustado la comida"
+    }
+  ],
+  "name": "Oven Mozarella",
+  "restaurant_id": "40356155"
+}]

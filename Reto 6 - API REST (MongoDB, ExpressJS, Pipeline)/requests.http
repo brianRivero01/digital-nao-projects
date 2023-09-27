@@ -1,0 +1,28 @@
+###
+POST http://localhost:9000/api/restaurante HTTP/1.1
+Content-Type: application/json
+
+{
+   "address": {
+        "building": "8825",
+        "coord": [-73.8803827, 40.7643124],
+        "street": "Astoria Boulevard",
+        "zipcode": "11369"
+    },
+   "borough": "Queens",
+    "cuisine": "American",
+    "grades": [
+        {
+            "date": "2014-11-15T00:00:00.000Z",
+            "score": 4
+        }
+    ],
+    "comments": [
+        {
+            "date": "2014-11-15T00:00:00.000Z",
+            "comment": "I will definitely be back!"
+        }
+    ],
+    "name": "Brunos On The Boulevard",
+    "restaurant_id": "40356151"
+}
